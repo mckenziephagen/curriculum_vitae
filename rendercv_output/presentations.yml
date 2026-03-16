@@ -1,0 +1,48 @@
+csgf2024: 
+    type: Conference
+    date: 2025-07
+    title:  Evaluating and Validating Model-based Functional Connectivity
+    author: ["Hagen, McKenzie P", "Rokem, Ariel", "Bouchard, Kristopher" ]
+    genre: Poster Presentation
+    parent: 
+      type: Conference
+      title: "DOE Computational Science Graduate Fellowship Annual Review"
+      # organization: Apple Inc.
+      location: Washington, DC, United States
+
+ohbm2024: 
+    type: Conference
+    date: 2023-06
+
+    title:  Evaluating Accuracy and Reliability of Brain-Behavior Models Using Diffusion MRI
+    author: ["Hagen, McKenzie P", "Kruper, John",  "Rokem, Ariel" ]
+    genre: Poster Presentation
+    parent: 
+      type: Conference
+      title: "Organization for Human Brain Mapping Annual Meeting"
+      # organization: Apple Inc.
+      location: Seoul, South Korea
+
+srcd2019: 
+    type: Conference
+    date: 2019-03
+
+    title:  "Language as a Mediator between Socioeconomic Status and Executive Function"
+    author: ["Hagen, McKenzie P", "Lurie, Lucy A", "McLaughlin, Katie A", "Sheridan, Margaret A",  "Meltzoff, Andrew N",  "Rosen, Maya L"]
+    genre: Poster Presentation
+    parent: 
+      type: Conference
+      title: "Society for Research on Child Development"
+      # organization: Apple Inc.
+      location: Boston, Massachusetts, USA
+
+# ohbm2022: 
+#     type: Conference
+#     title:  Evaluating Accuracy and Reliability of Brain-Behavior Models Using Diffusion MRI
+#     author: ["Hagen, McKenzie P", "Kruper, John",  "Rokem, Ariel" ]
+#     genre: Poster Presentation
+#     parent: 
+#       type: Conference
+#       title: "2024 Organization for Human Brain Mapping Annual Meeting"
+#       # organization: Apple Inc.
+#       location: Glasgow, Scotland

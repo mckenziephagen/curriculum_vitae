@@ -1,0 +1,355 @@
+cv:
+  name: McKenzie Paige Hagen
+  email: mphagen@uw.edu
+  website:
+  social_networks:
+    - network: GitHub
+      username: mckenziephagen
+    - network: LinkedIn
+      username: mckenziephagen
+    - network: Google Scholar
+      username: https://scholar.google.com/citations?hl=en&user=D3K-AfQAAAAJ
+
+  sections:
+     
+    education:
+      - institution: University of Washington
+        area: Psychology [(with Advanced Data Science Option)](https://psych.uw.edu/graduate/areas/data-science-options)
+        degree: PhD
+        start_date: 2021-09
+        end_date: present
+        location: Seattle, WA, USA
+      - institution: ''
+        area: Psychology
+        degree: Bachelor of Science with Distinction
+        date: Sept 2014--May 2018
+        highlights:
+          - 'Honors Thesis: "Language as a Mediator between Socioeconomic Status and  \n \n
+            Executive Function"'
+    Honors and Awards:
+     - name: Department of Energy Computational Science Graduate Fellowship
+       date: Sept 2022 -- 2026
+       summary: 
+     - name: ReproNim OHBM Travel Fellowship
+       date: 2024-06
+     - name: NSF Graduate Research Fellowship Program
+       date: 2022
+       summary: Declined in favor of DoE CSGF
+     - name: NSF Graduate Research Fellowship Program
+       date: 2021
+       summary: Honorable Mention
+     - name: Edwin R. Guthrie Prize for Meritous Essay in Psychology
+       date: 2018-05
+       summary: Awarded for undergraduate honor's thesis. 
+
+    'peer reviewed publications':
+    - title: 'pubs.bib'
+      authors:
+        - "pubs-"
+        
+    'Research Experience':
+      - company: University of Washington
+        position: PhD Candidate, Neuroinformatics Research and Development Group
+        start_date: 2021-09
+        end_date: present
+        location: Seattle, WA, USA
+        summary: 'PI: Ariel Rokem'
+      
+      - company: Lawrence Berkeley National Lab
+        position: Practicum Student, Neural Systems and Machine Learning Lab
+        start_date: 2023-08
+        end_date: present
+        location: Berkeley, CA, USA
+        summary: 'PI: Kristofer Bouchard'
+   
+      - company: Stanford University
+        position: Research Coordinator, Poldrack Lab
+        date: July 2018 -- 2021
+        location: Stanford, CA, USA
+        summary: 'PI: Russell Poldrack'
+        
+      - company: University of Washington
+        position: Research Assistent, Stress and Development Lab
+        date: July 2016 -- 2018
+        location: Seattle, WA, USA
+        summary: 'PI: Kate McLaughlin'
+      
+
+
+    # projects:
+    #   - name: Model-based functional connectivity
+    #     date: 2023-present
+    #     location: NRDG \n NSML
+    #     summary: 
+    #     highlights:
+    #       - Developed method of calculate  functional connectomes from resting state functional MRI using 
+    #        regularized linear models. 
+    #       - Demonstrated improvements in reliability and other desireable characteristics in two large datasets
+    #         using high perfomance computing. 
+
+    #   - name: 'Feature engineering dMRI for brain-behavior relationships'
+    #     date: 2022-2024
+    #     location: NRDG
+    #     summary: Kruper, **Hagen** et al., 2024 *Frontiers in Neuroscience*
+    #     highlights:
+    #       - Trained models to cognitive scores from dMRI data in a large dataset of 1,000+ 
+    #        participants. 
+
+    #   - name: Quality control of MRI scans using *MRIQC*
+    #     summary: Hagen et al., In Press *Nature Protocol*
+    #     date: 2019-2025
+    #     location: NRDG \n Poldrack Lab
+    #     highlights: 
+    #       - Developed lab QC protocols and modified protocols to a tutorial review published in *Nature Protocols* 
+    #        while leading a large team of collaborators and stakeholders. 
+    #       - Curated collection of exemplar common and interesting structural, functional, and 
+    #        diffusion MRI artifacts from several open-access datasets. 
+
+    #   - name: Analysis of stop-signal task in the ABCD dataset
+    #     date: 2020-2021
+    #     location: Poldrack Lab      
+    #     summary: Bissett, **Hagen** et al., 2021 *eLife* 
+    #     highlights: 
+    #       - Tested theoretical constraints of the stop signal task in the Adolescent Brain and Cognitive Development project implementation
+    #       - Investigated theoretical and methedological drawbacks in the stop signal task. 
+    #        in the Adolescent Brain and Cognitive Development (ABCD) dataset. 
+     
+    #   - name: A dual-task to understanding cognitive control. 
+    #     summary: Bissett, Jones, **Hagen** et al., 2023 *Journal of Experimental Psychology* 
+    #     date: 2018-2021
+    #     location: Poldrack Lab
+    #     highlights: 
+    #       - Created standard operating procedures for to ensure timely quality assessment of
+    #         MRI data for high-volume data collection. 
+    #       - Developed and beta tested novel combinations of cognitive task for use during fMRI, and coded task stimuli 
+    #        using Javascript. 
+    #       - Cleaned and analyzed survey and task-based behavioral data to investigate task-demands.
+
+    #   - name: Using functional MRI to understand self-regulation
+    #     summary: Bissett, ..., **Hagen** et al., 2024 *Scientific Data* \n \n
+    #              Vaghi, **Hagen** et al., 2021 *Translational Psychiatry* \n \n 
+    #     date: 2018-2021
+    #     location: Poldrack Lab
+    #     highlights: 
+    #       - Operated MRI scanner as certified MR technician to ensure participant safety and
+    #        comfort. 
+    #       - Managed team of research assistents and research coordinators to efficiently scan
+    #        large volume of participants. 
+
+    #   - name: Language as mediator between executive funtion and SES
+    #     summary: Lurie\*, **Hagen**\* et al., 2021 *Cognitive Development* \n \n 
+    #       Rosen, **Hagen** et al., 2020  *Child Development*\n \n 
+    #       \* co-first authors
+    #     date: 2016-2018
+    #     location: SDL
+    #     highlights: 
+    #       - Collected behavioral, survey, eyetracking, and physiological data from children 
+    #        6-12, and trained other research assistants on data collection protocols. 
+    #       - Analyzed data in R using a mediation model to show effect of socio-economic status 
+    #        on executive function and child language development. 
+    #       - Awarded Guthrie Prize for department Honors Thesis, and published thesis work as co-first 
+    #        author in Cognitive Development.
+
+    # summary: Trained models to cognitive scores from diffusion-weighted MRI data in a large dataset of 1,000+ participants.
+   
+    'Technical Skills': 
+      - label: Programming languages
+        details: "5+ years of experience Python, R, and Bash"
+
+      - label:  Data processing pipelines
+        details: "*fMRIPrep* (fMRI and sMRI preprocessing), *QSIPrep* (dMRI preprocessing), *QSIRecon* (dMRI postprocessing), 
+           *MRIQC* (MRI quality control), *XCP-D* (fMRI postprocessing), Connectome Workbench (fMRI preprocessing and analysis)" 
+        
+      - label: Miscellaneous
+        details: High performance computing (Slurm), reproducible containers (Docker and Apptainer), version control (Git and Github)
+
+    'invited talks':
+      - title: 'conf.yml'
+        authors:
+          - "invite-"
+
+    # skills:
+    #   - label: Programming
+    #     details: Proficient with Python and R, version control with Git, Python package 
+    #      development, High performance computing
+    #   # - label: Graduate coursework 
+      #   details:  "\n *CSE 583:* Software Development \t \t \t          *AMATH 582* \n
+      #              *CSE 581*: Ethics in AI '          ' *EX* \n
+      #              *STAT XX* \n
+      #              *BIOSTAT XX* " 
+    service: 
+      - name: Mentoring 
+        highlights:
+          - Psychology Honors Student (January 2025-Present) 
+          - Psychology Undergraduate Mentorship Program (November 2022-June 2023)
+          - Neuroscience Undergraduate Reading Program (September 2022-December 2022)
+
+      - name: Teaching 
+        highlights:
+         - NeuroHackademy 2025 Instructor
+         - NeuroHackademy 2022 Teaching Assistent
+         - Software Carpentries Workshop Teaching Assistent
+
+      - name: Committees
+        highlights: 
+        - UW Psychology Hiring Committee Student Representative (Fall 2023)
+        - Cognition and Perception Area Representative for UW Psychology "Diversity in Psychology" Recruitment Event (2022, 2023, 2024, 2025)
+    
+      - name:  Peer Reviews
+        summary: Journal of Vision
+
+    'poster presentations':
+      - title: 'presentations.yml'
+        authors:
+          - "pres-"
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 1.5cm
+    right_margin: 1.5cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(128, 128, 128)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: New Computer Modern
+    font_size: 11pt
+    leading: 0.6em
+    alignment: justified-with-no-hyphenation
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_family: New Computer Modern
+    name_font_size: 30pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: New Computer Modern
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: New Computer Modern
+    font_size: 1.4em
+    bold: true
+    small_caps: true
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+    line_type: with-full-line
+  entries:
+    date_and_location_width: 3.5cm
+    left_and_right_margin: 0cm
+    horizontal_space_between_columns: 0em
+    vertical_space_between_entries: 1em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: false
+    short_second_row: true
+    show_time_spans_in: []
+  highlights:
+    bullet: ◦
+    top_margin: 0.7em #also controls summary
+    left_margin: 1em
+    vertical_space_between_highlights: 1em
+    horizontal_space_between_bullet_and_highlight: 0.1em
+    summary_left_margin: 0.0em
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: |-
+        **INSTITUTION**
+        *DEGREE in AREA*
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column_first_row_template: |-
+        **POSITION**
+        *COMPANY*
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2026-03-12'
+  render_command:
+  bold_keywords: []

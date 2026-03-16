@@ -1,0 +1,35 @@
+whistler2025: 
+    type: Conference
+    date: 2025-02
+    title:  Model-based resting-state fMRI connectomes improve accuracy, reliability, and validity
+    author: ''
+    parent: 
+      type: Conference
+      title:  Brain Functional Organization, Connectivity, and Behavior
+      # organization: Apple Inc.
+      location: Whistler, British Columbia, Canada
+
+coNectome2025: 
+    type: Conference
+    date: 2025-07
+    title:  Model-based resting-state functional connectivity
+    author: ''
+    parent: 
+      type: Conference
+
+      title: UW Computational Neuroscience Center "CoNeCtome Conference" 
+      # organization: Apple Inc.
+      location: Seattle, Washington, USA
+
+neurohack2025: 
+    type: Conference
+    date: 2025-08
+
+    title:  Tutorial on quality assessment and control using MRIC
+    author: ''
+    parent: 
+      type: Conference
+      title: Neurohackademy Workshop
+      # organization: Apple Inc.
+      location: Seattle, Washington, USA
+
