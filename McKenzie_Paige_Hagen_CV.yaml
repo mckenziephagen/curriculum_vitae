@@ -27,19 +27,30 @@ cv:
           - 'Honors Thesis: "Language as a Mediator between Socioeconomic Status and  \n \n
             Executive Function"'
     Honors and Awards:
+     - name: American Association of University Women Dissertation Fellowship
+       date:  2026 -- 2027
+       summary: Tuition and stipend ($25,000)
      - name: Department of Energy Computational Science Graduate Fellowship
-       date: Sept 2022 -- 2026
-       summary: 
+       date: 2022 -- 2026
+       summary: Tuition and $45,000 stipend yearly
+
+     - name: UW Psychology Summer Merit Award
+       date:  2026 
+       summary: Honorable Mention
+       
+     - name: French American Doctoral Exchange for Precision Psychiatry Immersion Program and Travel Award
+       date:  2026
+ 
      - name: ReproNim OHBM Travel Fellowship
-       date: 2024-06
+       date: 2024
      - name: NSF Graduate Research Fellowship Program
-       date: 2022
+       date: 2022 -- 2025
        summary: Declined in favor of DoE CSGF
      - name: NSF Graduate Research Fellowship Program
        date: 2021
        summary: Honorable Mention
      - name: Edwin R. Guthrie Prize for Meritous Essay in Psychology
-       date: 2018-05
+       date: 2018
        summary: Awarded for undergraduate honor's thesis. 
 
     'peer reviewed publications':
