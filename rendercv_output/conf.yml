@@ -1,3 +1,15 @@
+csgf2026: 
+    type: Conference
+    date: 2026-07
+    title:  Linking Functional MRI Measurements to Neuroscience Theory with Model-Based Connectomes
+    author: ''
+    parent: 
+      type: Conference
+      title: Department of Energy Computational Science Graduate Fellowship Annual Review
+      # organization: Apple Inc.
+      location: Washington DC., USA
+
+
 whistler2025: 
     type: Conference
     date: 2025-02

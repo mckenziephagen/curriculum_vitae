@@ -1,10 +1,9 @@
-ohbm2024: 
+ohbm2026: 
     type: Conference
     date: 2026-06
-
     title:   Evaluating model-based functional magnetic resonance imaging connectomes 
     author: ["Hagen, McKenzie P", "Kolpin, Griffyn", "Salo, Taylor", "Cieslak, Matthew", 
-              "Meisler, Steven", "Tong, Tien", "Satterthwaite, Theodore", Bouchard, Kristofer",  "Rokem, Ariel" ]
+              "Meisler, Steven", "Tong, Tien", "Satterthwaite, Theodore", "Bouchard, Kristofer",  "Rokem, Ariel" ]
     genre: Poster Presentation
     parent: 
       type: Conference
